@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">MCS-270ProjectCalendar</string>
+    <string name= "greeting">Hey there</string>
 </resources>
